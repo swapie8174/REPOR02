@@ -1,0 +1,1 @@
+**This is the terraform script file, written for GCP cloud to create the bucket and upload the file** 
